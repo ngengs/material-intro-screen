@@ -3,4 +3,6 @@ ext.targetSdkVersion = 29
 ext.compileSdkVersion = 29
 ext.buildToolsVersion = '28.0.3'
 ext.androidSupport = '1.1.0'
+ext.androidPercentage = '1.0.0'
+ext.googleMaterial = '1.1.0-beta01'
 
